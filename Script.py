@@ -8,11 +8,11 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/Telugu_tigers</a>
-✯ Cᴏᴅᴇᴅ Oɴ: Madara Uchiha
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/Telugu_tigers>TEAM TIGERS</a>
+✯ Cᴏᴅᴇᴅ BY: Madara Uchiha
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: Movie DataBase
 ✯ Mʏ Sᴇʀᴠᴇʀ: Dont Know
-✯ Mʏ Vᴇʀꜱɪᴏɴ: Tiger-Bot ᴠ4.5.0</b>"""
+✯ Mʏ Vᴇʀꜱɪᴏɴ: Tiger-Bot ᴠ2.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
 - ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/Telugu_tigers>𝐓𝐞𝐚𝐦 𝐓𝐢𝐠𝐞𝐫𝐬</a>
@@ -28,7 +28,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 ➪ /batch › Tᴏ Cʀᴇᴀᴛᴇ Lɪɴᴋ Fᴏʀ Mᴜʟᴛɪᴘʟᴇ Mᴇᴅɪᴀ
 
 <b>⪼ EG:</b>
-</code>/batch https://t.me/mkn_bots_updates/1 https://t.me/mkn_bots_updates/10</code>"""
+</code>/batch https://t.me/Telugu_tigers https://t.me/Telugu_tigers</code>"""
   
     FILTER_TXT = "Sᴇʟᴇᴄᴛ Wʜɪᴄʜ Oɴᴇ Yᴏᴜ Wᴀɴᴛ...✨"
     
